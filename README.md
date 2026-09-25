@@ -53,8 +53,7 @@ Creates a complete personalized greeting.
 - Node.js
 
 ## Project Reference
-
-[JavaScript Greeting Builder](https://roadmap.sh/projects/js-greeting-builder)
+https://roadmap.sh/projects/js-greeting-builder
 
 ## Author
 
