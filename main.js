@@ -4,11 +4,11 @@ function formatName(firstName,lastName){
 
 function getGreeting(timeOfDay){
   
-  if(timeOfDay == 'morning'){
+  if(timeOfDay === 'morning'){
     return 'Good morning';
   }
   
-  if(timeOfDay == 'afternoon'){
+  if(timeOfDay === 'afternoon'){
     return 'Good afternoon';
   }
 
